@@ -1,6 +1,4 @@
-﻿using System.Runtime.Intrinsics.X86;
-
-namespace Launch_LinqLesson
+﻿namespace Launch_LinqLesson
 {
     public class Program
     {
